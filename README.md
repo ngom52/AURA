@@ -1,5 +1,5 @@
 # AURA
-Augmented RCA Assistant
+Augmented RCA Assistant (AURA)
 
 RCA = Root Cause Analysis
 
