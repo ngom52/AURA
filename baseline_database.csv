@@ -1,0 +1,8 @@
+﻿unit,equipment,attribute,kks,baseline_min,baseline_max
+1,regenerative air heater,flue gas outlet temperature,xxx,130,165
+1,condenser,vacuum pressure,xxx,70,85
+1,condenser,vacuum pump motor current,xxx,80,100
+1,condenser,cooling water flow,xxx,80,100
+1,feedwater heater,,xxx,0,100
+1,regenerative air heater,flue gas outlet temperature,xxx,130,160
+1,regenerative air heater,air outlet temperature,xxx,50,70

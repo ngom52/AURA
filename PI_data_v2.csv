@@ -1,0 +1,4 @@
+unit,equipment,attribute,kks,actual_data
+1,condenser,vacuum pressure,xxx,95
+1,condenser,vacuum pump motor current,xxx,120
+1,condenser,cooling water flow,xxx,70
