@@ -12,9 +12,11 @@ prompt_list = AURA_functions.generate_multi_prompt()
 
 for prompt in prompt_list:
     print(prompt)
+    # AURA_functions.send_prompt_gpt35turbo(prompt, key)
+    # AURA_functions.send_prompt_davinci(prompt, key)
 
-prompt = prompt_list[1]
+# prompt = prompt_list[1]
 # corrected_prompt = AURA_functions.grammar_correction(prompt)
 # print(corrected_prompt['result'])
-AURA_functions.send_prompt_gpt35turbo(prompt, key)
+# AURA_functions.send_prompt_gpt35turbo(prompt, key)
 # AURA_functions.send_prompt_davinci(prompt, key)
